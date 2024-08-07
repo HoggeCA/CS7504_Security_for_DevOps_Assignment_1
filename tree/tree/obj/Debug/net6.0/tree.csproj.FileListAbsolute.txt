@@ -1,0 +1,15 @@
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\bin\Debug\net6.0\tree.exe
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\bin\Debug\net6.0\tree.deps.json
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\bin\Debug\net6.0\tree.runtimeconfig.json
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\bin\Debug\net6.0\tree.dll
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\bin\Debug\net6.0\tree.pdb
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.csproj.AssemblyReference.cache
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.AssemblyInfoInputs.cache
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.AssemblyInfo.cs
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.csproj.CoreCompileInputs.cache
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.dll
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\refint\tree.dll
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.pdb
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\tree.genruntimeconfig.cache
+D:\Weltec\Year 2\Trimester 2\Programming 2\Week 11\tree\tree\obj\Debug\net6.0\ref\tree.dll
